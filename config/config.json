@@ -10,5 +10,5 @@
     "snr_change_time": 2000,
 
     "sample_length2": 4.25,
-    "peak_range2": [0.25, 0.95]
+    "peak_range2": [0.20, 0.95]
 }
